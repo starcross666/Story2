@@ -8,3 +8,9 @@ Initialized empty Git repository in /Users/nikidumas/Desktop/Story/.git/
 nikidumas@Joes-Personal-MacBook-Pro Story % ls -a
 .		..		.git		chapter1.txt
 nikidumas@Joes-Personal-MacBook-Pro Story % 
+
+COMMIT this version to Git:  git commit -m "changes made from the last change point to this change point - note in Present Tense"
+
+See LOG of changes: git log 
+See the STATUS of your commit (track? Green, not tracked? Red): git status
+To ADD Multiple files:  git add . 
