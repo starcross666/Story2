@@ -1,0 +1,10 @@
+It was the best of times, it was the worst of times.
+
+nikidumas@Joes-Personal-MacBook-Pro Desktop % cd Story
+nikidumas@Joes-Personal-MacBook-Pro Story % touch chapter1.txt 
+nikidumas@Joes-Personal-MacBook-Pro Story % open chapter1.txt
+nikidumas@Joes-Personal-MacBook-Pro Story % git init
+Initialized empty Git repository in /Users/nikidumas/Desktop/Story/.git/
+nikidumas@Joes-Personal-MacBook-Pro Story % ls -a
+.		..		.git		chapter1.txt
+nikidumas@Joes-Personal-MacBook-Pro Story % 
